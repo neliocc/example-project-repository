@@ -1,2 +1,2 @@
-# Hello Project
-This is some content updated in Github
+# Hello World
+This is the readme of the example branch
